@@ -19,9 +19,9 @@
 
 ### 相关学习
 
-  - [DecimalFormat导致线程阻塞的问题](https://github.com/luobotiantang/WorkTechnology/blob/master/md/DecimalFormat.md)
+  - [jdk1.8相关](https://github.com/luobotiantang/WorkTechnology/blob/master/md/JDK8.md)
   
-  - [使用线程池导致的获取用户信息异常](https://github.com/luobotiantang/WorkTechnology/blob/master/md/ThreadPool.md)
+  - [ABTest](https://github.com/luobotiantang/WorkTechnology/blob/master/md/ABTest.md)
     
 ### 联系
 
